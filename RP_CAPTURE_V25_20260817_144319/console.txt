@@ -1,0 +1,50 @@
+CANON EOS RP PF2/PF3 CAPTURE V25
+================================
+
+Use the SAME User Def. slot for every registration (prefer User Def. 1).
+Register the files in TEST_FILES in numeric order 01 -> 05.
+The recorder accepts ANY 0x01000203 payload size; 16,744 is NOT assumed.
+
+Known bundled styles:
+  01_NEUTRAL_CONTROL.pf3
+  02_EMERALD_OFFICIAL_PF2.pf2
+  03_EMERALD_PSE_UNCHANGED_PF3.pf3
+  04_SUPERIA_PF2_GENERATED.pf2
+  05_SUPERIA_OLD_PF3_NEUTRAL_ON_RP.pf3
+
+[attached] PID 19996  RemoteServerWin.exe
+[ready] EDSDK hooked in PID 20244  EOS Utility.exe
+[attached] PID 20244  EOS Utility.exe
+[attached] PID 1664  EOSUPNPSV.exe
+[ready] EDSDK hooked in PID 29740  EOS Utility 3.exe
+[attached] PID 29740  EOS Utility 3.exe
+RECORDER IS RUNNING.
+Open/use EOS Utility and register 01, 02, 03, 04, 05 in that order.
+When all five are done, return here and press ENTER.
+[CFP 0x01000210] PID 29740 size=15076
+[PICTURE STYLE 0203] PID 29740 EOS Utility 3.exe param=33 size=16752
+[RESULT] param=33 size=16752 rc=0
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000210] PID 29740 size=15076
+[PICTURE STYLE 0203] PID 29740 EOS Utility 3.exe param=33 size=16752
+[RESULT] param=33 size=16752 rc=0
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000210] PID 29740 size=15076
+[PICTURE STYLE 0203] PID 29740 EOS Utility 3.exe param=33 size=16752
+[RESULT] param=33 size=16752 rc=0
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000210] PID 29740 size=15076
+[PICTURE STYLE 0203] PID 29740 EOS Utility 3.exe param=33 size=16752
+[RESULT] param=33 size=16752 rc=0
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000203] PID 29740 size=16752
+[CFP 0x01000210] PID 29740 size=15076
+[PICTURE STYLE 0203] PID 29740 EOS Utility 3.exe param=33 size=16752
+[RESULT] param=33 size=16752 rc=0

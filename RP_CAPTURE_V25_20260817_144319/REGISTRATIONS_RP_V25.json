@@ -1,0 +1,407 @@
+{
+  "version": "V25_RP",
+  "cameraTarget": "EOS RP",
+  "registrationsCaptured": 5,
+  "registrations": [
+    {
+      "registration": 1,
+      "sourceMatch": null,
+      "time": 1786974240.2241364,
+      "process": "EOS Utility 3.exe",
+      "pid": 29740,
+      "inParam": 33,
+      "size": 16752,
+      "payloadFile": "EOS_Utility_3.exe_29740_EdsSetPropertyData_00002_01000203_16752.bin",
+      "payloadSha256": "0516a4c7b8518190f2a19c76da5223933ed5791f9d01eabbfa7331a915cd2f33",
+      "returnCode": 0,
+      "structure": {
+        "size": 16752,
+        "sha256": "0516a4c7b8518190f2a19c76da5223933ed5791f9d01eabbfa7331a915cd2f33"
+      }
+    },
+    {
+      "registration": 2,
+      "sourceMatch": null,
+      "time": 1786974257.5212724,
+      "process": "EOS Utility 3.exe",
+      "pid": 29740,
+      "inParam": 33,
+      "size": 16752,
+      "payloadFile": "EOS_Utility_3.exe_29740_EdsSetPropertyData_00005_01000203_16752.bin",
+      "payloadSha256": "f053a2c2189bea65fc07761c1e6408a73054d57b9ae97a37b5476876efc71afc",
+      "returnCode": 0,
+      "structure": {
+        "size": 16752,
+        "sha256": "f053a2c2189bea65fc07761c1e6408a73054d57b9ae97a37b5476876efc71afc"
+      }
+    },
+    {
+      "registration": 3,
+      "sourceMatch": {
+        "name": "03_EMERALD_PSE_UNCHANGED_PF3.pf3",
+        "size": 435532,
+        "sha256": "7330d7f6ec663b77406740a224d0867ea4f028689a544682be3a3770036432d5"
+      },
+      "time": 1786974268.5863543,
+      "process": "EOS Utility 3.exe",
+      "pid": 29740,
+      "inParam": 33,
+      "size": 16752,
+      "payloadFile": "EOS_Utility_3.exe_29740_EdsSetPropertyData_00008_01000203_16752.bin",
+      "payloadSha256": "fc7165fc67225049a04c35bba6c8ed9c8f899ee96243c7f21d33713b090a170e",
+      "returnCode": 0,
+      "structure": {
+        "size": 16752,
+        "sha256": "fc7165fc67225049a04c35bba6c8ed9c8f899ee96243c7f21d33713b090a170e"
+      }
+    },
+    {
+      "registration": 4,
+      "sourceMatch": {
+        "name": "04_SUPERIA_PF2_GENERATED.pf2",
+        "size": 1244,
+        "sha256": "9b89857d71763305728d3cf823187c4d6a35ab0a998a6b8a17f7acee0abaedcc"
+      },
+      "time": 1786974278.7710989,
+      "process": "EOS Utility 3.exe",
+      "pid": 29740,
+      "inParam": 33,
+      "size": 16752,
+      "payloadFile": "EOS_Utility_3.exe_29740_EdsSetPropertyData_00011_01000203_16752.bin",
+      "payloadSha256": "68c971e8fd62b626eb3d97df889060018e546c282e20a53e6dfb028bbe51edc6",
+      "returnCode": 0,
+      "structure": {
+        "size": 16752,
+        "sha256": "68c971e8fd62b626eb3d97df889060018e546c282e20a53e6dfb028bbe51edc6"
+      }
+    },
+    {
+      "registration": 5,
+      "sourceMatch": {
+        "name": "05_SUPERIA_OLD_PF3_NEUTRAL_ON_RP.pf3",
+        "size": 434511,
+        "sha256": "63d84342a744dfeb6e94f3fef088ac2ef10605ed64af807522b50c0886f4bc7b"
+      },
+      "time": 1786974294.4658546,
+      "process": "EOS Utility 3.exe",
+      "pid": 29740,
+      "inParam": 33,
+      "size": 16752,
+      "payloadFile": "EOS_Utility_3.exe_29740_EdsSetPropertyData_00014_01000203_16752.bin",
+      "payloadSha256": "5fb6b3c95a0e4783e1e5c11628c575938bde9f504d60cfbc255637e84e2afe71",
+      "returnCode": 0,
+      "structure": {
+        "size": 16752,
+        "sha256": "5fb6b3c95a0e4783e1e5c11628c575938bde9f504d60cfbc255637e84e2afe71"
+      }
+    }
+  ],
+  "cfpCompiledProperties": [
+    {
+      "propertyHex": "0x01000210",
+      "size": 15076,
+      "sha256": "2bff34bc3d7cae7d6c65c5e930befe2e0d0920d725ca9fdb18acbb9c8a7aec60",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00002_01000210_15076.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00003_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00004_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00005_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000210",
+      "size": 15076,
+      "sha256": "2bff34bc3d7cae7d6c65c5e930befe2e0d0920d725ca9fdb18acbb9c8a7aec60",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00007_01000210_15076.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "110ae383326e17c0e9c32a81be9037b1e501c0cda5b688681e7c53b2720d53ec",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00008_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00009_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00010_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000210",
+      "size": 15076,
+      "sha256": "2bff34bc3d7cae7d6c65c5e930befe2e0d0920d725ca9fdb18acbb9c8a7aec60",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00012_01000210_15076.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "01e4c99bc9cc2746dbf584132a3eb55be6d586b22a197db9b40089940ca8da9b",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00013_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00014_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00015_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000210",
+      "size": 15076,
+      "sha256": "2bff34bc3d7cae7d6c65c5e930befe2e0d0920d725ca9fdb18acbb9c8a7aec60",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00017_01000210_15076.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "1261dd5a3c276d7e5653ab701eeffcb3261d305e9bef3bcf8ad22f3edea2ed12",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00018_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00019_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000203",
+      "size": 16752,
+      "sha256": "3f9f4bb721de4d62cb06c16b2a8cb77ad14e9870a8922b10f162dfbeb9b5f47e",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00020_01000203_16752.bin"
+    },
+    {
+      "propertyHex": "0x01000210",
+      "size": 15076,
+      "sha256": "2bff34bc3d7cae7d6c65c5e930befe2e0d0920d725ca9fdb18acbb9c8a7aec60",
+      "file": "EOS_Utility_3.exe_29740_EdsCfpSetPropertyData_00022_01000210_15076.bin"
+    }
+  ],
+  "pairwise0203": [
+    {
+      "a": 1,
+      "b": 2,
+      "diffBytes": 14758,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    },
+    {
+      "a": 1,
+      "b": 3,
+      "diffBytes": 14725,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    },
+    {
+      "a": 1,
+      "b": 4,
+      "diffBytes": 15326,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    },
+    {
+      "a": 1,
+      "b": 5,
+      "diffBytes": 82,
+      "firstDiff": 8,
+      "lastDiff": 191,
+      "sameSize": true
+    },
+    {
+      "a": 2,
+      "b": 3,
+      "diffBytes": 3117,
+      "firstDiff": 54,
+      "lastDiff": 16738,
+      "sameSize": true
+    },
+    {
+      "a": 2,
+      "b": 4,
+      "diffBytes": 15283,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    },
+    {
+      "a": 2,
+      "b": 5,
+      "diffBytes": 14779,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    },
+    {
+      "a": 3,
+      "b": 4,
+      "diffBytes": 15336,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    },
+    {
+      "a": 3,
+      "b": 5,
+      "diffBytes": 14745,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    },
+    {
+      "a": 4,
+      "b": 5,
+      "diffBytes": 15345,
+      "firstDiff": 8,
+      "lastDiff": 16743,
+      "sameSize": true
+    }
+  ],
+  "comparisonToOld1300DReferences": [
+    {
+      "registration": 1,
+      "reference": "1300D_REG1_01000203_16744.bin",
+      "diffBytes": 16612,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 1,
+      "reference": "1300D_REG2_01000203_16744.bin",
+      "diffBytes": 16618,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 1,
+      "reference": "1300D_REG3_01000203_16744.bin",
+      "diffBytes": 16612,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 2,
+      "reference": "1300D_REG1_01000203_16744.bin",
+      "diffBytes": 16621,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 2,
+      "reference": "1300D_REG2_01000203_16744.bin",
+      "diffBytes": 16598,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 2,
+      "reference": "1300D_REG3_01000203_16744.bin",
+      "diffBytes": 16622,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 3,
+      "reference": "1300D_REG1_01000203_16744.bin",
+      "diffBytes": 16625,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 3,
+      "reference": "1300D_REG2_01000203_16744.bin",
+      "diffBytes": 16601,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 3,
+      "reference": "1300D_REG3_01000203_16744.bin",
+      "diffBytes": 16632,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 4,
+      "reference": "1300D_REG1_01000203_16744.bin",
+      "diffBytes": 16621,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 4,
+      "reference": "1300D_REG2_01000203_16744.bin",
+      "diffBytes": 16615,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 4,
+      "reference": "1300D_REG3_01000203_16744.bin",
+      "diffBytes": 16609,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 5,
+      "reference": "1300D_REG1_01000203_16744.bin",
+      "diffBytes": 16623,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 5,
+      "reference": "1300D_REG2_01000203_16744.bin",
+      "diffBytes": 16611,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    },
+    {
+      "registration": 5,
+      "reference": "1300D_REG3_01000203_16744.bin",
+      "diffBytes": 16613,
+      "firstDiff": 4,
+      "lastDiff": 16743,
+      "sameSize": false
+    }
+  ]
+}
